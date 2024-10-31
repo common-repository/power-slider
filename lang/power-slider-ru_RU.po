@@ -1,0 +1,139 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gn_themes\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-12-16 08:02+0300\n"
+"PO-Revision-Date: 2011-12-16 08:27+0300\n"
+"Last-Translator: Vladimir Anokhin <ano.vladimir@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: power-slider.php:177
+msgid "no posts found"
+msgstr "записи не найдены"
+
+#: power-slider.php:209
+msgid "Help"
+msgstr "Помощь"
+
+#: power-slider.php:220
+#: includes/admin.php:9
+#: includes/admin.php:30
+#: includes/admin.php:42
+msgid "Power slider"
+msgstr "Power slider"
+
+#: power-slider.php:221
+msgid "Vladimir Anokhin"
+msgstr "Владимир Анохин"
+
+#: power-slider.php:222
+msgid "Content slider by posts from specified category"
+msgstr "Слайдер записей из определенной категории"
+
+#: includes/admin.php:10
+msgid "Awesome slider for WordPress. Power slider."
+msgstr "Отличный слайдер для WordPress. Power slider."
+
+#: includes/admin.php:47
+msgid "About"
+msgstr "О плагине"
+
+#: includes/admin.php:48
+msgid "Usage"
+msgstr "Как пользоваться"
+
+#: includes/admin.php:52
+msgid "For full functionality of this page it is recommended to enable JavaScript."
+msgstr "На этой странице рекомендуется включить Javascript."
+
+#: includes/admin.php:52
+msgid "Instructions"
+msgstr "Инструкции"
+
+#: includes/admin.php:54
+msgid "Free support"
+msgstr "Бесплатная поддержка"
+
+#: includes/admin.php:55
+msgid "Support forum"
+msgstr "Форум поддержки"
+
+#: includes/admin.php:56
+msgid "Plugin homepage"
+msgstr "Страница плагина"
+
+#: includes/admin.php:57
+msgid "Twitter"
+msgstr "Твиттер разработчика"
+
+#: includes/admin.php:61
+msgid "Do you love this plugin?"
+msgstr "Вам нравится этот плагин?"
+
+#: includes/admin.php:62
+msgid "Buy author a beer"
+msgstr "Купите автору пива"
+
+#: includes/admin.php:62
+msgid "Donate"
+msgstr "Сделать пожертвование"
+
+#: includes/admin.php:63
+msgid "Rate this plugin at wordpress.org"
+msgstr "Оцените плагин на wordpress.org"
+
+#: includes/admin.php:63
+msgid "5 stars"
+msgstr "5 звезд"
+
+#: includes/admin.php:64
+msgid "Review this plugin in your blog"
+msgstr "Сделайте обзор этого плагина в своем блоге"
+
+#: includes/admin.php:72
+msgid "Template tag"
+msgstr "Тег шаблона"
+
+#: includes/admin.php:74
+msgid "Shortcode"
+msgstr "Шорткод"
+
+#: includes/metabox.php:24
+msgid "Slide settings (power slider)"
+msgstr "Настройки слайда (power slider)"
+
+#: includes/metabox.php:30
+msgid "Slide layout"
+msgstr "Вид слайда"
+
+#: includes/metabox.php:31
+msgid "Choose layout type"
+msgstr "Выберите как будет выглядеть этот слайд"
+
+#: includes/metabox.php:35
+msgid "Image from left"
+msgstr "Изображение слева"
+
+#: includes/metabox.php:36
+msgid "Image from right"
+msgstr "Изображение справа"
+
+#: includes/metabox.php:37
+msgid "Fullsized image"
+msgstr "Полноразмерное изображение"
+
+#: includes/metabox.php:41
+msgid "Slide link"
+msgstr "Ссылка слайда"
+
+#: includes/metabox.php:42
+msgid "Enter custom link for this slide"
+msgstr "Вы можете указать произвольную ссылку для этого слайда"
+
